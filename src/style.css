@@ -66,3 +66,8 @@ li:first-letter {
 .measures {
     margin: 20px 0;
 }
+
+#fahrenheit-link,
+#celsius-link {
+    text-decoration: none;
+}
