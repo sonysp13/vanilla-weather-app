@@ -64,7 +64,7 @@ li:first-letter {
 }
 
 .measures {
-    margin: 20px 0;
+    margin: 100px 0;
 }
 
 #fahrenheit-link,
@@ -81,7 +81,7 @@ li:first-letter {
 }
 
 .forecast-icon {
-    margin-left: 110px;
+    margin-left: 100px;
 }
 
 .weather-forecast-date {
